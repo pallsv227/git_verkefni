@@ -1,1 +1,7 @@
 #git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+Cd = change directory(breyta um möppu)
+cd = ferð aftur í heimamöppu
+ls = sýnir allt sem er í möppunni
+pwd = sýnir slóðina sem er að möppunni sem þú ert í
+mkdir = býr til möppu á staðnum sem þú ert
